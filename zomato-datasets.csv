@@ -1,0 +1,32 @@
+restaurant_id,name,city,cuisine,rating,votes,cost_for_two,price_range,online_delivery,table_booking
+1,Annapoorna Pure Veg,Coimbatore,Pure Veg South Indian,4.8,1500,600,3,0,1
+2,Buhari Hotel,Chennai,"Biryani, South Indian",4.2,4200,900,3,1,0
+3,Murugan Idli Shop,Madurai,South Indian,4.6,3800,400,1,1,0
+4,Sree Annapoorna,Coimbatore,"South Indian, Veg",4.4,2100,600,2,1,0
+5,Shree Sangeethas,Trichy,"South Indian, Chinese",4.1,1500,700,2,1,0
+6,Dindigul Thalappakatti,Dindigul,Biryani,4.5,5000,1000,3,1,0
+7,Selvi Mess,Salem,"Non-Veg, South Indian",4,1200,650,2,0,0
+8,Amma Mess,Madurai,"Chettinad, Non-Veg",4.3,2400,850,3,1,0
+9,Anjappar Chettinad Restaurant,Chennai,Chettinad,4.1,3200,1200,3,1,1
+10,Junior Kuppanna,Erode,"Biryani, Non-Veg",4.4,2700,1100,3,1,0
+11,Hotel Kannappa,Trichy,South Indian,3.9,900,500,1,0,0
+12,Haribhavanam,Coimbatore,"North Indian, Chinese",4.5,2900,1500,3,1,1
+13,Aswins Veg Restaurant,Perambalur,"Veg, South Indian",4,700,450,1,1,0
+14,Ratna Cafe,Chennai,South Indian,4.3,3100,600,2,1,0
+15,Border Rahmath Parotta Stall,Courtallam,"Parotta, Non-Veg",4.6,4100,800,2,0,0
+16,Venu Biryani Hotel,Dindigul,Biryani,4.2,1800,750,2,1,0
+17,Hotel Saravana,Kanyakumari,"South Indian, Veg",3.8,600,400,1,1,0
+18,Madurai Kumar Mess,Chennai,Non-Veg Meals,4.4,2600,950,3,1,0
+19,Sree Sabarees,Madurai,South Indian,4.1,1400,550,2,1,0
+20,Hotel Aryaas,Tirunelveli,"Veg, North Indian",4.2,1100,650,2,1,0
+21,Erode Amman Mess,Chennai,"Non-Veg, Chettinad",4.3,2200,900,3,1,0
+22,Adyar Ananda Bhavan (A2B),Kanchipuram,"Veg, South Indian",4.5,3500,700,2,1,0
+23,Priya Mess,Karaikudi,Chettinad,4,950,600,2,0,0
+24,The Bangala,Chettinad,"Chettinad, Luxury Dining",4.7,800,3000,4,0,1
+25,Sukkubhai Biryani,Chennai,Biryani,4.3,2100,850,3,1,0
+26,Astoria Hotel,Kodaikanal,Multi-cuisine,4.1,1300,1800,3,1,1
+27,A2B Veg Restaurant,Chennai,South Indian,4.3,1200,600,2,1,0
+28,Barbeque Nation,Bangalore,"North Indian, BBQ",4.5,3500,1800,3,0,1
+29,Dominos Pizza,Mumbai,"Italian, Pizza",4.1,5000,800,2,1,0
+30,Biryani Blues,Delhi,"Biryani, Mughlai",3.9,950,700,2,1,0
+31,The Leela Palace Dining,Chennai,Multi-cuisine,4.8,620,4000,4,0,1
